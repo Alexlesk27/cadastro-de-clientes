@@ -1,5 +1,5 @@
 body{
- background-image: url(numeracao_1.jpg);
+ background-image: url(abstract-1278077_960_720.webp);
  background-repeat: no-repeat;
  background-size: cover;
  width: 100%;
@@ -78,8 +78,14 @@ form{
     height: 200px;
    }
    
+   body{
+     background-image: url(abstract-1278077_960_720.webp);
+     background-size: cover;
+   }
+
+
    p{
-     background-color: white;
+     
      
      color:#E74C3C;
    }

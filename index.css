@@ -3,7 +3,8 @@ body{
  background-repeat: no-repeat;
  background-size: cover;
  width: 100%;
-  height: auto;
+
+ 
 }
 
 
@@ -11,12 +12,14 @@ body{
 
 h1{
   text-align: center;
+  color: white;
 }
 
 
   
   
   input {
+    
     margin-bottom: 6px;
     border: 1px solid black;
     width: 100%;
@@ -24,6 +27,7 @@ h1{
     margin-block-start: 5px;
     box-sizing: border-box;
     border-radius: 5px;
+    
   }
   
   button{
@@ -34,24 +38,52 @@ h1{
     margin-block-start: 5px;
     box-sizing: border-box;
     border-radius: 5px;
+  
   }
 
   button:hover{
-    background-color: rgba(16, 172, 37, 0.705);
+    background-color: rgb(0, 255, 242);
     padding: 10px 40px;
     display: inline-block;
     animation-name: todown;
     animation-duration: 5s;
-    color: aqua;
+    color:wheat;
+    text-decoration: none;
 
 }
 
+a{
+  background-color: aliceblue;
+  margin-bottom: 6px;
+  border: 1px solid black;
+  width: 150px 150px 150px;
+  margin-block-start: 5px;
+  box-sizing: border-box;
+  border-radius: 5px;
+
+}
+
+a{
+  background-color: white;
+    padding: 5px 58px;
+    display: inline-block;
+    animation-name: todown;
+    animation-duration: 5s;
+    color:wheat;
+    text-decoration: none;
+    color: black;
+
+ 
+}
 
 
-  .text {
+  .text{
     margin: auto;
     border: 1px;
     width: 500px;
     margin-top: 200px;
     color:white;
   } 
+
+  
+  

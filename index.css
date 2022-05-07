@@ -14,6 +14,13 @@ h1{
   color: white;
 }
 
+p{
+  color:#FF5733;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 form{
   width: 480px;
   height: 200px;
@@ -69,8 +76,14 @@ form{
    form{
     width: 280px;
     height: 200px;
-    
    }
+   
+   p{
+     background-color: white;
+     
+     color:#E74C3C;
+   }
+   
   }
 
   
